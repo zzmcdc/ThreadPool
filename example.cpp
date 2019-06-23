@@ -20,7 +20,7 @@ int main()
             })
         );
     }
-
+    pool.waitall();
     for(auto && result: results)
         std::cout << result.get() << ' ';
     std::cout << std::endl;

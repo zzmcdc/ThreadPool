@@ -1,0 +1,17 @@
+# ninja log v5
+0	623	0	CMakeFiles/example.dir/example.cpp.o	283d5b0d42e065e8
+624	688	0	example	dff17eb7c6872c34
+1	639	0	CMakeFiles/example.dir/example.cpp.o	76e4f929fead3175
+639	703	0	example	dff17eb7c6872c34
+0	632	0	CMakeFiles/example.dir/example.cpp.o	819c22e58516704
+632	696	0	example	dff17eb7c6872c34
+1	625	0	CMakeFiles/example.dir/example.cpp.o	819c22e58516704
+625	691	0	example	dff17eb7c6872c34
+0	993	0	CMakeFiles/example.dir/example.cpp.o	76e4f929fead3175
+994	1052	0	example	dff17eb7c6872c34
+1	1000	0	CMakeFiles/example.dir/example.cpp.o	76e4f929fead3175
+1000	1056	0	example	dff17eb7c6872c34
+2	927	0	CMakeFiles/example.dir/example.cpp.o	76e4f929fead3175
+927	1000	0	example	dff17eb7c6872c34
+0	990	0	CMakeFiles/example.dir/example.cpp.o	76e4f929fead3175
+990	1049	0	example	dff17eb7c6872c34

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/work/software/ThreadPool/build",
+  "command": "/usr/bin/clang++-6.0   -I../concurrentqueue  -pthread -g   -std=gnu++14 -o CMakeFiles/example.dir/example.cpp.o -c /work/software/ThreadPool/example.cpp",
+  "file": "/work/software/ThreadPool/example.cpp"
+}
+]
